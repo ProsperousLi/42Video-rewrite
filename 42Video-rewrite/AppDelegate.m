@@ -7,7 +7,9 @@
 //
 
 #import "AppDelegate.h"
-
+#import "TabBarController.h"
+#import "UIColor+Hex.h"
+#import "AppConstant.h"
 @interface AppDelegate ()
 
 @end
@@ -16,7 +18,23 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
+    //self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds]; //window  size
+    TabBarController *tabBarController = [[TabBarController alloc] init];
+    
+    UINavigationController *nav = [[UINavigationController alloc] init];
+    
+    //导航的标题字体的颜色,是nav这个顶层控制器才能改变的，因为只有它直接有navigationBar这个属性,titleTextAttributes是文本的格式,返回一个字典类型。
+    NSDictionary *dict = [NSDictionary dictionaryWithObject:[UIColor colorWithHex:primary_color_500_mask] forKey:NSForegroundColorAttributeName];
+    nav.navigationBar.titleTextAttributes = dict;
+    
+    [nav pushViewController:tabBarController animated:NO];
+    
+    self.window.rootViewController = nav;
+
+    
+    [self.window makeKeyAndVisible];
+    
     return YES;
 }
 

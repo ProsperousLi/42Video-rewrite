@@ -1,0 +1,335 @@
+{
+    "what": 200,
+    "object": [
+               {
+               "videoMulti": {
+               "id": 28,
+               "userAccount": "42admin",
+               "isRecommend": 1,
+               "isTop": 1,
+               "name": "睡在我上铺的兄弟",
+               "director": "张琦",
+               "actors": "陈晓,秦岚,杜天皓,刘芮麟,李现",
+               "typeLevel0": 3,
+               "typeLevel1": "8,12,20",
+               "typeLevel2": 21,
+               "preview": "/upload/image/jpeg/1461299743342.jpeg",
+               "introduce": "沪都大学330宿舍的四位性格迥异的兄弟，在毕业之际各自遭遇了情感、学业、工作上的挫折。聪明贪玩、厚脸皮的大男孩林向宇（陈晓饰）与女上司姐弟恋，引得周遭非议；聪明贪玩、自在逍遥的富二代李大鹏（杜天皓饰）无所事事，拉着心爱的羊驼到处配种；硕果仅存的处男管超（刘芮麟饰）遇到心爱的女生，却遭遇人生重大分歧；出身贫苦、仗义痴情的奋斗青年谢训（李现饰），能否结束现实的贫穷，一方有难兄弟支援，他们为彼此两肋插刀，然而却出现了不可调和的内部矛盾，在这个过程中，四位热血兄弟成长着，改变着。",
+               "releaseTime": 2016,
+               "score": 10,
+               "clickCount": 846,
+               "validate": 1,
+               "recordTime": 1461299743000
+               },
+               "user": {
+               "account": "42admin",
+               "nickname": "逍遥麒麟",
+               "roleType": 0,
+               "validate": 1,
+               "recordTime": 1460712401000
+               },
+               "videoTypeLevel_0": {
+               "id": 3,
+               "name": "电视剧",
+               "level": 0,
+               "recordTime": 1459575265000
+               },
+               "videoTypeLevel_1": [
+                                    {
+                                    "id": 8,
+                                    "name": "爱情",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    },
+                                    {
+                                    "id": 12,
+                                    "name": "喜剧",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    },
+                                    {
+                                    "id": 20,
+                                    "name": "其它",
+                                    "level": 1,
+                                    "recordTime": 1460694186000
+                                    }
+                                    ],
+               "videoTypeLevel_2": {
+               "id": 21,
+               "name": "大陆",
+               "level": 2,
+               "recordTime": 1459575265000
+               }
+               },
+               {
+               "videoMulti": {
+               "id": 8,
+               "userAccount": "42admin",
+               "isRecommend": 1,
+               "isTop": 1,
+               "name": "上瘾网络剧--强力推荐",
+               "director": "丁伟",
+               "actors": "黄景瑜,许魏洲,林枫松,陈稳",
+               "typeLevel0": 3,
+               "typeLevel1": "8,20",
+               "typeLevel2": 21,
+               "preview": "/upload/image/jpeg/1460729739688.jpeg",
+               "introduce": "白洛因自小跟迷糊父亲白汉旗及爷爷奶奶生活在一起，16岁这年，亲妈姜\r\n圆要再婚，嫁给部队高官顾威霆。顾海，顾威霆的儿子，因为母亲的死对父亲一直心怀怨恨。两个带着抵触情绪兄弟因为机缘巧合在同一个班里，随着时间的推移，慢慢产生了不一样的感情，白洛因的同学尤其和发小杨猛也在这段感情中起了不小的作用。[4]",
+               "releaseTime": 2016,
+               "score": 10,
+               "clickCount": 646,
+               "validate": 1,
+               "recordTime": 1460729386000
+               },
+               "user": {
+               "account": "42admin",
+               "nickname": "逍遥麒麟",
+               "roleType": 0,
+               "validate": 1,
+               "recordTime": 1460712401000
+               },
+               "videoTypeLevel_0": {
+               "id": 3,
+               "name": "电视剧",
+               "level": 0,
+               "recordTime": 1459575265000
+               },
+               "videoTypeLevel_1": [
+                                    {
+                                    "id": 8,
+                                    "name": "爱情",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    },
+                                    {
+                                    "id": 20,
+                                    "name": "其它",
+                                    "level": 1,
+                                    "recordTime": 1460694186000
+                                    }
+                                    ],
+               "videoTypeLevel_2": {
+               "id": 21,
+               "name": "大陆",
+               "level": 2,
+               "recordTime": 1459575265000
+               }
+               },
+               {
+               "videoMulti": {
+               "id": 18,
+               "userAccount": "42admin",
+               "isRecommend": 1,
+               "isTop": 1,
+               "name": "太阳的后裔",
+               "director": "李应福",
+               "actors": "宋仲基,宋慧乔,晋久,金智媛,李珍基",
+               "typeLevel0": 3,
+               "typeLevel1": "8,9,17",
+               "typeLevel2": 26,
+               "preview": "/upload/image/jpeg/1461136121924.jpeg",
+               "introduce": "应联合国之邀，驻扎在OURCQ首都的联合国维和部队所属部队特战警备队大尉刘时镇（宋仲基饰）[4]  ，和外科医生姜暮烟（宋慧乔饰）去到战争硝烟弥漫、疾病蔓延的乌鲁克，他们在韩国和派兵地区之间往返相爱，在急迫状况下依然互相关照一点点靠近",
+               "releaseTime": 2016,
+               "score": 10,
+               "clickCount": 489,
+               "validate": 1,
+               "recordTime": 1461136121000
+               },
+               "user": {
+               "account": "42admin",
+               "nickname": "逍遥麒麟",
+               "roleType": 0,
+               "validate": 1,
+               "recordTime": 1460712401000
+               },
+               "videoTypeLevel_0": {
+               "id": 3,
+               "name": "电视剧",
+               "level": 0,
+               "recordTime": 1459575265000
+               },
+               "videoTypeLevel_1": [
+                                    {
+                                    "id": 8,
+                                    "name": "爱情",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    },
+                                    {
+                                    "id": 9,
+                                    "name": "动作",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    },
+                                    {
+                                    "id": 17,
+                                    "name": "灾难",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    }
+                                    ],
+               "videoTypeLevel_2": {
+               "id": 26,
+               "name": "韩国",
+               "level": 2,
+               "recordTime": 1459575265000
+               }
+               },
+               {
+               "videoMulti": {
+               "id": 3,
+               "userAccount": "root",
+               "isRecommend": 1,
+               "isTop": 1,
+               "name": "匆匆那年-好久不见",
+               "director": "李远、韩天",
+               "actors": "张彬彬,王萌黎,金泽灏,尤靖茹,李川,隋咏良",
+               "typeLevel0": 3,
+               "typeLevel1": "8",
+               "typeLevel2": 21,
+               "preview": "/upload/image/jpeg/1460556465828.jpeg",
+               "introduce": "方茴（王萌黎饰）消失在了大学校园里，离开后的她经历了成长，跟大家再度相遇了，她跟陈寻（金泽灏饰）、乔燃（张彬彬饰）的感情漩涡再度开启，公司老板曾文辉（隋咏良饰）成为感情战局中的新角色。赵烨（李川饰）与林嘉茉（尤靖茹饰）这对欢喜冤家的感情和事业剪不断、理还乱，而沈晓棠（余玥饰）和王森昭的故事，也分别走上了自己的命运铺就的路",
+               "releaseTime": 2015,
+               "score": 7,
+               "clickCount": 321,
+               "validate": 1,
+               "recordTime": 1460556465000
+               },
+               "user": {
+               "account": "root",
+               "nickname": "超超",
+               "roleType": 0,
+               "validate": 1,
+               "recordTime": 1460712404000
+               },
+               "videoTypeLevel_0": {
+               "id": 3,
+               "name": "电视剧",
+               "level": 0,
+               "recordTime": 1459575265000
+               },
+               "videoTypeLevel_1": [
+                                    {
+                                    "id": 8,
+                                    "name": "爱情",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    }
+                                    ],
+               "videoTypeLevel_2": {
+               "id": 21,
+               "name": "大陆",
+               "level": 2,
+               "recordTime": 1459575265000
+               }
+               },
+               {
+               "videoMulti": {
+               "id": 7,
+               "userAccount": "root",
+               "isRecommend": 1,
+               "isTop": 1,
+               "name": "甲铁城的卡巴内瑞",
+               "director": "荒木哲郎",
+               "actors": "生驹,无名,菖蒲,来栖,逞生,鳅",
+               "typeLevel0": 4,
+               "typeLevel1": "10,17",
+               "typeLevel2": 25,
+               "preview": "/upload/image/jpeg/1460707629527.jpeg",
+               "introduce": "全世界被产业革命的波澜推动，自近世变迁至近代之时，不死的怪物突然出现。被钢铁的皮膜包覆，只要心脏不被破坏就不会消灭，被它啃咬的人似乎也会在死过一次之后复生，并开始袭击人类。之后被称为卡巴内的这些怪物爆发性地增殖，并覆盖了全世界。远东岛国日本的人们，为了对抗卡巴内的威胁而在各地建造名为“驿”的城寨，并困守在其中，想方设法残存下去。能够在驿之间来往的只有装甲蒸汽机车（通称骏城），驿之间通过各自生产物的融通，总算是保证了生活。住在以炼铁和蒸汽机的生产为业的显金驿的蒸汽锻冶少年，生驹。他为了打倒卡巴内，开发出独自的武器“贯筒”，同时期盼着有朝一日能够发挥出自己的力量。某天，穿越前线的骏城之一甲铁城来到了显金驿。为了车辆的清扫整备而被召唤的生驹，目击到了从义务性的卡巴内检阅中被免除的不可思议少女。当晚，生驹与自称为无名的那位白天的少女再会，此时骏城突然暴走并突入了显金驿。乘务员全灭，而且全部变成了卡巴内！卡巴内从显金驿中溢出。如同要从被恐慌袭击的人浪中逆行一般，生驹奔跑着。这一次不能逃避，我要用贯筒打倒卡巴内！——于是，为了成为真正能闪耀光辉的男人，生驹的战斗开始了。",
+               "releaseTime": 2016,
+               "score": 9,
+               "clickCount": 297,
+               "validate": 1,
+               "recordTime": 1460707629000
+               },
+               "user": {
+               "account": "root",
+               "nickname": "超超",
+               "roleType": 0,
+               "validate": 1,
+               "recordTime": 1460712404000
+               },
+               "videoTypeLevel_0": {
+               "id": 4,
+               "name": "动漫",
+               "level": 0,
+               "recordTime": 1459575265000
+               },
+               "videoTypeLevel_1": [
+                                    {
+                                    "id": 10,
+                                    "name": "冒险",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    },
+                                    {
+                                    "id": 17,
+                                    "name": "灾难",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    }
+                                    ],
+               "videoTypeLevel_2": {
+               "id": 25,
+               "name": "日本",
+               "level": 2,
+               "recordTime": 1459575265000
+               }
+               },
+               {
+               "videoMulti": {
+               "id": 13,
+               "userAccount": "root",
+               "isRecommend": 1,
+               "isTop": 1,
+               "name": "你好，陌生人",
+               "director": "BanjongPisanthanakun",
+               "actors": "德·辰塔维·塔纳西维,努娜·能提妲·索彭",
+               "typeLevel0": 2,
+               "typeLevel1": "8,12",
+               "typeLevel2": 30,
+               "preview": "/upload/image/jpeg/1460811834497.jpeg",
+               "introduce": "跟前女友相处八年的dak （德·辰塔维·塔纳西维饰演）因为女友想结婚但是自己觉得没有能力照顾好女友而拒绝结婚，导致分手。被一帮好友醉醺醺地送往了独自去韩国旅行之路。因为跟男友相处被男友束缚的may（努娜·能提妲·索彭饰演）独自一个人到韩国。两位爱情失意的人在韩国不期而遇。困窘的dak接受了来自泰国同胞的may的帮助，就是这样的缘分，让两个年轻人走到一起，相互鼓励，相互帮助，慢慢产生了情愫，后期dak的前女友来找dak 要结婚，但是此时的dak已经爱上了may，两个人都回到泰国，彼此没有留下姓名，觉得如果知道了对方的姓名，就会顾及对方的感受，就这样一年以后，通过电台节目，dak表达了对may 的思念，may 激动地流下了热泪。",
+               "releaseTime": 2010,
+               "score": 8,
+               "clickCount": 50,
+               "validate": 1,
+               "recordTime": 1460811834000
+               },
+               "user": {
+               "account": "root",
+               "nickname": "超超",
+               "roleType": 0,
+               "validate": 1,
+               "recordTime": 1460712404000
+               },
+               "videoTypeLevel_0": {
+               "id": 2,
+               "name": "电影",
+               "level": 0,
+               "recordTime": 1459575265000
+               },
+               "videoTypeLevel_1": [
+                                    {
+                                    "id": 8,
+                                    "name": "爱情",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    },
+                                    {
+                                    "id": 12,
+                                    "name": "喜剧",
+                                    "level": 1,
+                                    "recordTime": 1459575265000
+                                    }
+                                    ],
+               "videoTypeLevel_2": {
+               "id": 30,
+               "name": "泰国",
+               "level": 2,
+               "recordTime": 1459575265000
+               }
+               }
+               ]
+}
